@@ -1,0 +1,54 @@
+p {
+    float: right;
+    color: #444444;
+    font-size: 13px;
+    padding-left: 10px; 
+}
+
+.divheader{
+    float: right;
+    padding-left : 10px;
+}
+
+.boosting{
+    height: 34px;
+    width:34px;
+}
+
+.headerbawah{
+    padding-left:60px;
+}
+
+.line{
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    color: #828282;
+    height: 50px;
+}
+
+.pmain{
+    float:left;
+    font-size: 14px;
+    padding-top:12px;
+}
+
+.textsearch{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #0a7aa6;
+    letter-spacing: 0.25px;
+}
+
+.bukatoko{
+    background-color: #f3f7fa;
+    border: 1px solid #0a7aa6;
+    border-radius: 5px;
+    width: 620px;
+    margin-bottom: 30px;
+}
+
+.textbukatoko{
+    font-size: 18px;
+    font-weight: bold;
+    color: #0a7aa6;
+}

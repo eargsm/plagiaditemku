@@ -1,0 +1,26 @@
+#name_input {
+    border-top:none;
+    border-right: none;
+    border-left:none;
+}
+
+#email_input {
+    border-top:none;
+    border-right: none;
+    border-left:none;
+}
+
+#nohp_input {
+    border-top:none;
+    border-right: none;
+    border-left:none;
+}
+
+.daftar {
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+    box-shadow: gray 0px 0px 5px;
+    position: fixed;
+
+}

@@ -1,0 +1,426 @@
+p {
+    float: right;
+    color: #444444;
+    font-size: 13px;
+    padding-left: 10px; 
+}
+
+.divheader{
+    float: right;
+    padding-left : 10px;
+}
+
+.boosting{
+    height: 34px;
+    width:34px;
+}
+
+.headerbawah{
+    padding-left:60px;
+}
+
+.line{
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    color: #828282;
+    height: 50px;
+}
+.pmain{
+    float:left;
+    font-size: 14px;
+    padding-top:12px;
+}
+.content-container-no-padding {
+
+    width: 980px;
+    margin: auto;
+
+}
+.height-controller {
+
+    min-height: 600px;
+    display: flex;
+
+}
+.menu-container {
+
+    width: 200px;
+    display: inline-block;
+    background-color: #f5f5f5;
+    border-left: solid 1px #e5e5e5;
+    border-right: solid 1px #e5e5e5;
+
+}
+.top-title {
+
+    margin: auto;
+    height: 110px;
+
+}
+.menu-icon {
+
+    margin: 45px 8px 0px 45px;
+    float: left;
+
+}
+.menu-text {
+
+    margin-top: 47px;
+    display: inline-block;
+
+}
+.sub-menu-selected {
+
+    background-color: #e5e5e5;
+    height: 70px;
+    margin: auto;
+    border-left: 5px solid #aeaeae;
+
+}
+.sub-menu-icon {
+
+    margin: 25px 8px 0px 20px;
+    float: left;
+
+}
+.sub-menu-text {
+
+    font-weight: bold;
+    color: #6d6e71;
+    margin-top: 26px;
+    float: left;
+
+}
+.sub-menu {
+
+    height: 70px;
+    margin: auto;
+    border-left: 0 solid #BCBEC0;
+
+}
+.menu-content-container {
+
+    display: block;
+    width: 748px;
+    padding: 40px 0px 35px 30px;
+
+}
+.full-width {
+
+    width: 100% !important;
+
+}
+.margin-bottom-20px {
+
+    margin-bottom: 20px !important;
+
+}
+.popup-notification-area {
+
+    margin-bottom: 25px;
+    padding: 8px 15px;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.popup-notification-icon {
+
+    width: 15px;
+    height: 15px;
+    padding: 2px 3px 10px 0px;
+    display: inline-block;
+    position: absolute;
+
+}
+.popup-text-notif {
+
+    padding-left: 20px;
+    display: inline-block;
+    position: relative;
+
+}
+.highlight-small {
+
+    color: white;
+
+}
+.seller-product-list-title-area {
+
+    height: 30px;
+    margin-bottom: 5px;
+
+}
+.seller-product-list-title {
+
+    position: relative;
+    top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0A7aa0;
+}
+.display-block {
+    display: block;
+}
+.button-add-product {
+
+    padding: 10px;
+    float: right;
+    display: block;
+
+}
+.button-highlight-wide {
+
+    min-width: 150px;
+    border: 1px solid #ff8900;
+    background-color: #ff8900;
+    color: white;
+    -moz-box-sizing: border-box;
+    border-radius: 5px;
+    outline: 0;
+
+}
+.float-left {
+
+    float: left;
+
+}
+.text-grey {
+
+    color: #828282;
+}
+.text-red {
+
+    color: #F86565;
+
+}
+.display-inline-block {
+
+    display: inline-block;
+
+}
+.base-form {
+
+    padding: 0px 10px;
+    height: 28px;
+    border-radius: 5px;
+    border: solid 1px #e5e5e5;
+    display: block;
+
+}
+.custom-form {
+
+    height: 32px;
+    font-family: arial, sans-serif;
+    color: #444444;
+    font-size: 14px;
+}
+.display-inline-block {
+
+    display: inline-block;
+}
+.wrapper-custom-search-box {
+
+    vertical-align: top;
+    border-radius: 6px;
+    border: 1px solid #e5e5e5;
+    background-color: #FFF;
+    width: 200px;
+    height: 30px;
+    display: inline-block;
+    padding: 0px 1px 0px 10px;
+
+}
+.custom-search-box {
+
+    width: 165px;
+    height: 28px;
+    border: medium none;
+    outline: medium none;
+    display: inline-block;
+
+}
+input {
+
+    margin: 0px;
+    padding: 1px;
+
+}
+.custom-search-box-button {
+
+    background-color: #FF8900;
+    background-image: url(../images/icon-search.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 0;
+    border-radius: 5px;
+    width: 28px;
+    height: 28px;
+    float: right;
+    margin-top: 1px;
+    cursor: pointer;
+
+}
+.float-right {
+
+    float: right;
+
+}
+.base-form {
+
+    padding: 0px 10px;
+    height: 28px;
+    border-radius: 5px;
+    border: solid 1px #e5e5e5;
+    display: block;
+
+}
+#product_table {
+
+    width: 748px;
+
+}
+.nb-th {
+
+    vertical-align: middle;
+    height: 36px;
+    font-weight: bold;
+    border-style: none;
+    border-bottom-style: none;
+    font-size: 14px;
+    color: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #0a7aa6;
+    border-radius: 6px 6px 6px 6px;
+    text-align: center;
+
+}
+.nb-tc {
+
+    display: table-cell;
+    vertical-align: middle;
+    table-layout: fixed;
+    padding: 10px 5px;
+    color: #444444;
+
+}
+.column-name {
+
+    width: 145px;
+    text-align: left;
+    padding: 10px 5px;
+
+}
+.column-price {
+
+    width: 125px;
+    text-align: left;
+
+}
+.column-stock {
+
+    width: 125px;
+    text-align: left;
+
+}
+.column-minimum {
+
+    width: 118px;
+    text-align: left;
+
+}
+.nb-tc {
+
+    display: table-cell;
+    vertical-align: middle;
+    table-layout: fixed;
+    padding: 10px 5px;
+    color: #444444;
+
+}
+.text-darkgrey {
+
+    color: #444444;
+    cursor: pointer;
+}
+.text-bold {
+
+    font-weight: bold;
+
+}
+.text-small {
+
+    font-size: 13px;
+
+}
+.text-grey {
+
+    color: #828282;
+
+}
+.column-update {
+
+    width: 90px;
+    text-align: left;
+
+}
+.column-action {
+
+    width: 85px;
+
+}
+.action-button {
+
+    display: block;
+    width: 50px;
+    font-size: 12px;
+    margin: 3px auto;
+
+}
+.full-width {
+
+    width: 100%;
+
+}
+.button-highlight-small {
+
+    border-radius: 5px;
+    font-weight: normal;
+    padding: 5px;
+
+}
+.no-history-area {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+}
+.no-history-icon {
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.no-history-text {
+    padding: 5px;
+    display: block;
+}
+.no-history-action-button {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.button-highlight-wide {
+    min-width: 150px;
+}
+.tambahdagang {
+    float: right;
+    background-color: #FF8900;
+    color: white;
+    border: 0px;
+
+}
